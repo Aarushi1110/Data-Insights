@@ -12,7 +12,7 @@ Data Analysis using SQL, Data Cleaning and Extract, Transform and Load (ETL) in 
 
 ## Contact
 - aarushimahajan456@gmail.com
-- [@LinkedIn] (www.linkedin.com/in/aarushi-mahajan-b261721b2)
+- [@LinkedIn](www.linkedin.com/in/aarushi-mahajan-b261721b2)
 
 
 
